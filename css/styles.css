@@ -2,5 +2,17 @@ h1{
   color: red;
   text-align: center;
   font-size: 100px;
-  
+}
+
+.sidebar{
+  float: right;
+  width: 25%;
+  background-color: black;
+  color: red;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  color: red;
 }
